@@ -8,5 +8,5 @@ moviepage = 'https://www.imdb.com/chart/top'
 // Print first 10 titles
 
 for(var i=0; i<=10; i+=1) {
- console.log{$('moviepage#titleColumn')
+ console.log(i)
 }
